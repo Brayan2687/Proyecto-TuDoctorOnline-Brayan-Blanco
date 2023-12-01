@@ -1,0 +1,116 @@
+.body3{
+    width: 100%;
+    height: 100%;
+    background-image: url(./../img/luces-borrosas-sobre-fondo-azul-o-luces-sobre-fondo-azul_3248-3026.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+}
+.fondoForm1{
+
+    border-radius: 35px;
+    width: 500px;
+    height: 750px;
+    background-color: rgb(21, 135, 135);
+    margin-left: 680px;
+    margin-top: 70px;
+    border-collapse: collapse;                              
+    min-width: 450px; 
+    box-shadow: 0 0 20px rgb(4, 204, 161)
+
+} 
+.formulario1{
+
+
+    justify-content: center;
+    align-items: center;
+
+}
+.formulario1 label{
+
+    font-size: 28px;
+    color: whitesmoke;
+
+}
+.formulario1 input, select{
+
+    border-radius: 10px;
+    padding: 5px;
+    padding-bottom: 15px;
+    margin-top: 25px;
+    font-size: 15px;
+}
+.formulario1 label, input, select{
+
+
+    margin-left: 60px; 
+
+
+}
+.formulario1 select{
+
+    font-size: 15px;
+
+}
+
+.formulario1 textarea{
+    
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 25px;
+    position: fixed;
+    margin-top: 35px;
+}
+.button2{
+
+    position: fixed;
+    margin-top: 105px;
+    margin-left: -15px;
+    background-color: #00baaa;/* Blue */
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 25px;
+
+  
+  }
+.button2:hover{
+
+    background-color: rgb(0, 255, 255) ;
+
+}
+
+.button10{
+
+    position: fixed;
+    margin-top: 40px;
+    margin-left: 17px;
+    background-color: #00baaa;/* Blue */
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 25px;
+
+  
+  }
+.button10:hover{
+
+    background-color: rgb(0, 255, 255) ;
+
+}
+
+.fondoForm1 h1{
+
+
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    text-shadow: 1px  0px 0px rgb(0, 112, 241),
+    0px  1px 0px black,
+   -1px  0px 0px black,
+    0px -1px 0px black;
+
+}
+.opcion{
+
+    width: 200px;
+
+}

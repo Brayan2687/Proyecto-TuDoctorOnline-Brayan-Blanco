@@ -1,0 +1,135 @@
+.user_card { 
+    height: 500px;
+    width: 350px;
+    margin-top: 200px;
+    margin-left: 700px;
+    margin-bottom: auto;
+    background: #50aa4d;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+    border-radius: 35px;
+    background-color: rgb(30, 134, 134);
+    border-collapse: collapse;                              
+    min-width: 450px; 
+    box-shadow: 0 0 20px rgb(4, 204, 161)
+}
+.brand_logo_container {
+    position: absolute;
+    height: 170px;
+    width: 170px;
+    top: -105px;
+    left: 140px;
+    border-radius: 50%;
+    background: #ffffff;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 0 20px rgb(4, 204, 161)   
+}
+.brand_logo {
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    right: 2PX;
+    bottom: 5PX;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.form_container {
+    margin-top: 100px;
+}
+
+.login_container {
+    padding: 0 2rem;
+}
+.input-group-text {
+    background: #e01111cc !important;
+    color: rgb(22, 58, 218) !important;
+    border: 0 !important;
+    border-radius: 0.25rem 0 0 0.25rem !important;
+
+}
+.input_user,
+.input_pass:focus {
+    box-shadow: none !important;
+    outline: 0px !important;
+
+}
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before {
+    background-color: #c0392b !important;
+}
+.button6{
+
+    position: relative;
+    top: 53px;
+    left: 250px;
+    background-color: #00baaa;/* Blue */
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 25px;
+
+
+  }
+.button6:hover{
+
+    background-color: rgb(0, 255, 255) ;
+
+}
+.button7{
+
+    position: relative;
+    top: -10px;
+    left: 50px;
+    background-color: #00baaa;/* Blue */
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 25px;
+
+
+  }
+.button7:hover{
+
+    background-color: rgb(0, 255, 255) ;
+
+}
+.form_container{
+
+    margin-bottom: 50px;
+    margin-left: -20px;
+
+}
+.form_container label{
+
+
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    text-shadow: 1px  0px 0px rgb(0, 112, 241),
+    0px  1px 0px black,
+   -1px  0px 0px black,
+    0px -1px 0px black;
+
+    
+}
+.form_container input{
+
+    margin-left: 130px;
+    padding: 15PX;
+
+}
+.bodyCompleto{
+
+    width: 100%;
+    height: 100%;
+    background-image: url(./../img/luces-borrosas-sobre-fondo-azul-o-luces-sobre-fondo-azul_3248-3026.webp);
+    position: fixed;
+    background-size: cover;
+
+
+}

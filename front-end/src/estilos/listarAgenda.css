@@ -1,0 +1,133 @@
+.header{
+  
+  height: 150px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.877);
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+
+  }
+
+.titulo{
+
+  font-size: 70px;
+  font-family: sans-serif;
+  position: fixed;
+  color: rgb(16, 189, 219);
+
+}
+.body80{
+
+  width: 100%;
+  display: block;
+  height: 100%;
+  background-image: url(./../img/luces-borrosas-sobre-fondo-azul-o-luces-sobre-fondo-azul_3248-3026.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+  z-index: -1;
+  margin-top: 0px;
+  
+
+}
+
+
+.styled-table12 { 
+
+  border-collapse: collapse; 
+  font-family: sans-serif; 
+  width: auto;
+  font-size: 25px;
+  box-shadow: 0 0 20px rgb(0, 0, 0); 
+  
+}
+
+.styled-table12 thead tr { 
+  background-color: #009898; 
+  color: #ffffff; 
+  text-align: middle; 
+}
+
+.styled-table12 th, .styled-table td{ 
+  padding: 12px 15px; 
+}
+
+.styled-table12 tbody tr { 
+  border-bottom: 1px solid #dddddd; 
+} 
+
+.styled-table12 tbody tr{
+  background-color: #f3f3f3; } 
+
+.styled-table tbody tr:last-of-type { 
+  border-bottom: 2px solid #009879; 
+}
+
+.button99{
+
+  position: relative;
+  top: 650px;
+  left: 1030px;
+  background-color: #00baaa;/* Blue */
+  padding: 15px;
+  border-radius: 15px;
+  font-size: 25px;
+
+}
+.button33{
+  position: relative;
+  top: 650px;
+  left: 240px;
+  background-color: #00baaa;/* Blue */
+  padding: 15px;
+  border-radius: 15px;
+  font-size: 25px;
+
+
+}
+.button88{
+
+  position: relative;
+  top: 650px;
+  left: 340px;
+  background-color: #00baaa;/* Blue */
+  padding: 15px;
+  border-radius: 15px;
+  font-size: 25px;
+
+
+}
+.button99:hover{
+
+  background-color: rgb(0, 255, 255) ;
+
+}
+.button33:hover{
+
+  background-color: rgb(0, 255, 255) ;
+
+}
+.button88:hover{
+
+  background-color: rgb(0, 255, 255) ;
+
+}
+td:hover{
+
+  background-color: #34887756;
+
+}
+.contenedor-body45{
+
+
+  width: auto;
+  height: 400px;
+  left: 0px;
+  top: 190px;
+  position: fixed;
+  border-radius: 50px;
+  overflow: auto;
+
+}
